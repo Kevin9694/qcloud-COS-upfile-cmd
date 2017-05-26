@@ -1,5 +1,5 @@
 import os
-
+from sys import exit
 codeFn = [".py", ".md", ".txt", ".html", ".css", ".sass", ".scss", ".cpp", ".h", ".c", ".hpp", ".m", ".js", ".php"]
 docFn = [".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".pages", ".pdf"]
 videoFn = [".mp4", ".mov", ".flv", ".avi"]
